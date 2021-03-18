@@ -312,7 +312,7 @@ END
 &lt;p&gt;將傳動裝上底盤和輪胎 來測試是否能夠行走&lt;/p&gt;
 &lt;p&gt;此次馬達齒輪調整過 嚙合較為順暢 但高轉速時任然有跳動&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="168" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616018055307.jpg.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="168" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616018055307.jpg" width="300"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
