@@ -217,7 +217,7 @@ vertical: body pane on the botton</t>
 &lt;p&gt;主要分成五個步驟&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;2d圖設計&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;3d圖建模&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;傳動機構模擬及修改&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;目標模擬及修改&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;組配設計&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;藉由一連串的設計流程&lt;br&gt;可以了解設計環節中關鍵點&lt;br&gt;以及培養遇到問題時解決問題的方法&lt;/p&gt;
-&lt;p&gt;&lt;img caption="false" height="200" src="/images/5cfad19593aed46b3ff9080d1b4f0605.jpg" width="200"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img caption="false" height="200" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/5cfad19593aed46b3ff9080d1b4f0605.jpg" width="200"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
@@ -242,7 +242,7 @@ END
 <t tx="leo.20210318124705.1">&lt;section&gt;
 &lt;p&gt;協同產品設計實習&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;設計產品:四驅車&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="225" src="/images/EKWXRiCUYAAk7Qa.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="225" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/EKWXRiCUYAAk7Qa.jpg" width="300"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318132704.1">&lt;section&gt;
@@ -268,7 +268,7 @@ END
 &lt;h2&gt;w3&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;3/9 四驅車初版尺寸設計完成&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;2d圖尺寸設計完成 可開始初次3d建模模擬&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="169" src="/images/messageImage_1615245653928.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="169" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1615245653928.jpg" width="300"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318133519.1">&lt;section&gt;
 &lt;p&gt;&lt;strong&gt;3/11初次傳動軸3d建模完成&lt;/strong&gt;&lt;/p&gt;
@@ -277,7 +277,7 @@ END
 &lt;p&gt;&lt;strong&gt;3/12二次齒輪尺寸表建構完成&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;齒輪大致尺寸訂定 也更改了齒輪型式&lt;/p&gt;
 &lt;p&gt;並建立2D齒輪尺寸表&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="169" src="/images/messageImage_1616020597655.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="169" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616020597655.jpg" width="300"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318133608.1">&lt;section&gt;
 &lt;p&gt;3/14二次齒輪3D繪製完成&lt;/p&gt;
@@ -289,22 +289,22 @@ END
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;3/15第一次傳動軸模擬測試及除錯&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;第一次模擬時發現齒輪開碰撞後會卡住 後來發現是碰撞未設定完全&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="168" src="/images/messageImage_1616027802262.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="168" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616027802262.jpg" width="300"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318133628.1">&lt;section&gt;
 &lt;p&gt;&lt;strong&gt;3/15底盤跟輪胎2D尺寸設定完成&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="309" src="/images/5cfad19593aed46b3ff9080d1b4f06051.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="309" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/5cfad19593aed46b3ff9080d1b4f06051.jpg" width="300"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318133833.1">&lt;section&gt;
 &lt;p&gt;&lt;strong&gt;3/16底盤跟輪胎3D繪製完成&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img alt="" height="168" src="/images/messageImage_1616029553193.jpg" width="300"&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img alt="" height="168" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616029553193.jpg" width="300"&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318133904.1">&lt;section&gt;
 &lt;p&gt;&lt;strong&gt;3/16第二次傳動軸模擬測試&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;此次模擬發現馬達齒輪與斜齒輪嚙合不完全&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;並著手更改中心距及馬達齒輪之尺寸&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&lt;img alt="" height="168" src="/images/未命名.png" width="300"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="168" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/%E6%9C%AA%E5%91%BD%E5%90%8D.png" width="300"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318134029.1">&lt;section&gt;
@@ -312,7 +312,7 @@ END
 &lt;p&gt;將傳動裝上底盤和輪胎 來測試是否能夠行走&lt;/p&gt;
 &lt;p&gt;此次馬達齒輪調整過 嚙合較為順暢 但高轉速時任然有跳動&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="168" src="/images/messageImage_1616018055307.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="168" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616018055307.jpg.jpg" width="300"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
@@ -326,8 +326,8 @@ END
 <t tx="leo.20210318134115.1">&lt;section&gt;
 &lt;p&gt;&lt;strong&gt;3/18 配件及導輪2D設計圖完成&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;2D圖完成後 並加緊腳步將3D圖繪製完成&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="169" src="/images/messageImage_1616022264014.jpg" width="300"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="169" src="/images/messageImage_1616022279376.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="169" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616022279376.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="169" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616022279376.jpg" width="300"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318134214.1">&lt;section&gt;
@@ -335,7 +335,7 @@ END
 &lt;p&gt;整車基本完成 但加上配件後模擬結果並不如人意&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;碰撞方面設定也不完全&lt;/p&gt;
 &lt;p&gt;導輪無法發揮它的功能(除錯中)&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="168" src="/images/messageImage_1616018022405.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="168" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616018022405.jpg" width="300"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318134300.1">&lt;section&gt;
 &lt;p&gt;&lt;strong&gt;3/18 軌道完成&lt;/strong&gt;&lt;/p&gt;
@@ -344,13 +344,13 @@ END
 <t tx="leo.20210318134427.1">&lt;section&gt;
 &lt;h1&gt;成品&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2D零件圖&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="200" src="/images/messageImage_1616027858095.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="200" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616027858095.jpg.jpg" width="300"&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20210318134452.1">&lt;section&gt;
 &lt;p&gt;&lt;strong&gt;3D組合圖&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="168" src="/images/messageImage_1616018022405.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="168" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616018022405.jpg" width="300"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;傳動軸模擬影片&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3KHE4jRWbAw"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
