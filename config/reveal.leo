@@ -344,7 +344,7 @@ END
 <t tx="leo.20210318134427.1">&lt;section&gt;
 &lt;h1&gt;成品&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2D零件圖&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="200" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616027858095.jpg.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="200" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616027858095.jpg" width="300"&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
