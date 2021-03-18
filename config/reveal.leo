@@ -45,6 +45,7 @@
 <v t="leo.20200818171138.1"><vh>slide 5 </vh>
 <v t="leo.20210318134427.1"><vh>newHeadline</vh></v>
 <v t="leo.20210318134452.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318140607.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 </v>
@@ -351,10 +352,12 @@ END
 <t tx="leo.20210318134452.1">&lt;section&gt;
 &lt;p&gt;&lt;strong&gt;3D組合圖&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="168" src="https://raw.githubusercontent.com/40823148/stage1-ag20/main/images/messageImage_1616018022405.jpg" width="300"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;傳動軸模擬影片&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3KHE4jRWbAw"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
+<t tx="leo.20210318140607.1">&lt;section&gt;
+&lt;p&gt;&lt;strong&gt;傳動軸模擬影片&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3KHE4jRWbAw"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
