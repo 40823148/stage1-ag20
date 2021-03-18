@@ -26,13 +26,27 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210318132704.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318132710.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318132713.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318133519.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318133608.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318133626.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318133628.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318133833.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318133904.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318134029.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318134029.2"><vh>newHeadline</vh></v>
+<v t="leo.20210318134115.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318134214.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318134300.1"><vh>end</vh></v>
+</v>
+<v t="leo.20200818171138.1"><vh>slide 5 </vh>
+<v t="leo.20210318134427.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318134452.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
-<v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
-<v t="leo.20200818171312.1"><vh>slide 8</vh></v>
-<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
-<v t="leo.20200818171412.1"><vh>slide 10</vh></v>
 </v>
 </v>
 </v>
@@ -189,12 +203,8 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+    @others
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
  &lt;p&gt;設計理念與方向&lt;/p&gt;
@@ -211,97 +221,13 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
+<t tx="leo.20200818171138.1">&lt;section&gt;
+    @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171412.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-stack"&gt;
-        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
+<t tx="leo.20200818171215.1">&lt;section&gt;
+END
+
 &lt;/section&gt;
 
 </t>
@@ -319,5 +245,116 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;img alt="" height="225" src="/images/EKWXRiCUYAAk7Qa.jpg" width="300"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210318132704.1">&lt;section&gt;
+&lt;h2&gt;w1&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2/25 第一次課程&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;講述課程方向及分組&lt;/p&gt;
+&lt;p&gt;建立個人網站&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318132710.1">&lt;section&gt;
+&lt;h2&gt;w2&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3/4 第二次課程&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;討論產品&lt;/p&gt;
+&lt;p&gt;開始構思產品內容及機構&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3/7 建立組別網站&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;建立組別網站並更新進度內容&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318132713.1">&lt;section&gt;
+&lt;h2&gt;w3&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;3/9 四驅車初版尺寸設計完成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2d圖尺寸設計完成 可開始初次3d建模模擬&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="169" src="/images/messageImage_1615245653928.jpg" width="300"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318133519.1">&lt;section&gt;
+&lt;p&gt;&lt;strong&gt;3/11初次傳動軸3d建模完成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;傳動軸初次設計完成&lt;/p&gt;
+&lt;p&gt;但因傘形齒輪不可行 所以選擇更改齒輪方案&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3/12二次齒輪尺寸表建構完成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;齒輪大致尺寸訂定 也更改了齒輪型式&lt;/p&gt;
+&lt;p&gt;並建立2D齒輪尺寸表&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="169" src="/images/messageImage_1616020597655.jpg" width="300"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318133608.1">&lt;section&gt;
+&lt;p&gt;3/14二次齒輪3D繪製完成&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;齒輪3D繪製完成 可進行傳動軸&lt;/span&gt;&lt;span&gt;模擬測試&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318133626.1">&lt;section&gt;
+&lt;h2&gt;w4&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3/15第一次傳動軸模擬測試及除錯&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;第一次模擬時發現齒輪開碰撞後會卡住 後來發現是碰撞未設定完全&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="168" src="/images/messageImage_1616027802262.jpg" width="300"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318133628.1">&lt;section&gt;
+&lt;p&gt;&lt;strong&gt;3/15底盤跟輪胎2D尺寸設定完成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="309" src="/images/5cfad19593aed46b3ff9080d1b4f06051.jpg" width="300"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318133833.1">&lt;section&gt;
+&lt;p&gt;&lt;strong&gt;3/16底盤跟輪胎3D繪製完成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img alt="" height="168" src="/images/messageImage_1616029553193.jpg" width="300"&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318133904.1">&lt;section&gt;
+&lt;p&gt;&lt;strong&gt;3/16第二次傳動軸模擬測試&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;此次模擬發現馬達齒輪與斜齒輪嚙合不完全&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;並著手更改中心距及馬達齒輪之尺寸&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="168" src="/images/未命名.png" width="300"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318134029.1">&lt;section&gt;
+&lt;p&gt;&lt;strong&gt;3/17傳動與底盤組裝模擬測試&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;將傳動裝上底盤和輪胎 來測試是否能夠行走&lt;/p&gt;
+&lt;p&gt;此次馬達齒輪調整過 嚙合較為順暢 但高轉速時任然有跳動&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="168" src="/images/messageImage_1616018055307.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318134029.2">&lt;section&gt;
+&lt;p&gt;&lt;strong&gt;3/18傳動與底盤模擬行走&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;車子可藉由傳動軸進行行走 但齒輪高速旋轉跳動下&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;輪胎無法穩定前進 (除錯中)&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318134115.1">&lt;section&gt;
+&lt;p&gt;&lt;strong&gt;3/18 配件及導輪2D設計圖完成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2D圖完成後 並加緊腳步將3D圖繪製完成&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="169" src="/images/messageImage_1616022264014.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="169" src="/images/messageImage_1616022279376.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318134214.1">&lt;section&gt;
+&lt;p&gt;&lt;strong&gt;3/18 將配件與導輪組裝上車並進行模擬&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;整車基本完成 但加上配件後模擬結果並不如人意&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;碰撞方面設定也不完全&lt;/p&gt;
+&lt;p&gt;導輪無法發揮它的功能(除錯中)&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="168" src="/images/messageImage_1616018022405.jpg" width="300"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318134300.1">&lt;section&gt;
+&lt;p&gt;&lt;strong&gt;3/18 軌道完成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img alt="" height="168" src="/images/messageImage_1616018009044.jpg" width="300"&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318134427.1">&lt;section&gt;
+&lt;h1&gt;成品&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2D零件圖&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="200" src="/images/messageImage_1616027858095.jpg" width="300"&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210318134452.1">&lt;section&gt;
+&lt;p&gt;&lt;strong&gt;3D組合圖&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="168" src="/images/messageImage_1616018022405.jpg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;傳動軸模擬影片&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3KHE4jRWbAw"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
 </tnodes>
 </leo_file>
